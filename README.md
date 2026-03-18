@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm firedintern
 
-<!--
-**firedintern/firedintern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Previously fired from @Microsoft → now deep in blockchain, DeFi, tokenomics & AI agents.
 
-Here are some ideas to get you started:
+Building tools for crypto transparency and on-chain analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+Python · JavaScript/TypeScript · HTML/CSS · DeFi protocols · Solana
+
+---
+
+### 🔥 Featured Projects
+
+<!-- Pin your best repos below or list them here -->
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firedintern&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Let's connect
+
+→ X: [@firedintern](https://x.com/firedintern)
