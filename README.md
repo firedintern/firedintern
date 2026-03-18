@@ -29,10 +29,6 @@ went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $R
 
 → **[tge-calculator](https://github.com/firedintern/tge-calculator)** — TGE selling pressure calculator
 
-→ **[kaito-ai-tracker](https://github.com/firedintern/kaito-ai-tracker)** — AI agent token post-TGE tracker via Kaito
-
-→ **[chartz](https://github.com/firedintern/chartz)** — interactive crypto charting app
-
 → **[stablecoin-heatmap](https://github.com/firedintern/stablecoin-heatmap)** — stablecoin flow heatmap using DefiLlama API
 
 ---
@@ -43,18 +39,6 @@ went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $R
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firedintern&show_icons=true&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=firedintern&theme=radical&hide_border=true)
-
----
-
-### 🏆 trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=firedintern&theme=radical&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🐍 contributions
-
-![snake gif](https://github.com/firedintern/firedintern/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
