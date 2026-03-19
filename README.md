@@ -1,6 +1,6 @@
 # 👋 hi, i'm firedintern
 
-previously from microsoft. ended up going deep in fintech/crypto.
+previously from microsoft. ended up going deep in fintech/crypto, this is my 3rd cycle.
 
 went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $RISE token launch and raised $3M. now i'm building DYORX on Solana, digitizing savings circles with DeFi yields delivered via WhatsApp. shipping open source crypto tools on the side.
 
