@@ -1,6 +1,6 @@
 # 👋 hi, i'm firedintern
 
-previously from microsoft. ended up going deep in fintech/crypto, this is my 3rd cycle.
+previously from microsoft. ended up going deep in fintech/crypto, this is my 3rd cycle. Currently exploring AI and learning on the go!
 
 went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $RISE token launch and raised $3M. now i'm i've been working on DYORX on Solana, digitizing savings circles with DeFi yields delivered via WhatsApp. shipping open source crypto tools on the side.
 
@@ -21,15 +21,15 @@ went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $R
 
 ---
 
-### 🔥 projects
+### Projects
 
-→ **[dyorx-sim](https://github.com/firedintern/dyorx-sim)** — ROSCA savings circle simulator. adds 6-8% APY via Solana DeFi to savings circles that currently earn 0%
+→ **[DYOR(X)](https://www.dyorx.com)** — ROSCA savings circle simulator. adds 6-8% APY via Solana DeFi to savings circles that currently earn 0%
 
-→ **[meta-fgi](https://github.com/firedintern/meta-fgi)** — crypto fear & greed index aggregator
+→ **[FGI](https://www.fgichad.xyz)** — Crypto fear & greed index aggregator
 
-→ **[tge-calculator](https://github.com/firedintern/tge-calculator)** — TGE selling pressure calculator
+→ **[TGE-Calculator](https://www.tgecalculator.xyz)** — TGE selling pressure calculator
 
-→ **[stablecoin-heatmap](https://github.com/firedintern/stablecoin-heatmap)** — stablecoin flow heatmap using DefiLlama API
+→ **[Inbox Zero](https://www.inboxzero.me)** — Inbox Zero let's you efficiently manage your X bookmarks!
 
 ---
 
