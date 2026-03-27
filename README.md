@@ -42,7 +42,7 @@ went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $R
 
 ---
 
-### 🤝 let's connect
+### connect
 
 → X: [@firedintern](https://x.com/firedintern)
 → TG: @dpscrooge
