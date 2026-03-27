@@ -36,8 +36,6 @@ went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $R
 ### 📊 github stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firedintern&layout=compact&theme=radical&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firedintern&show_icons=true&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=firedintern&theme=radical&hide_border=true)
 
 ---
