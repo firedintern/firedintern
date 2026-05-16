@@ -1,6 +1,6 @@
 # 👋 hi, i'm firedintern
 
-previously from microsoft. ended up going deep in fintech/crypto, this is my 3rd cycle. Currently exploring AI and learning on the go! Last 2 projects I shipped is trying to correlate game theory with DeFi
+previously from microsoft. ended up going deep in fintech/crypto, this is my 3rd cycle. Currently exploring AI and learning on the go! Last 2 projects I shipped, attempts to correlate game theory with DeFi
 
 went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $RISE token launch and raised $3M. now i'm i've been working on DYORX on Solana, digitizing savings circles with DeFi yields delivered via WhatsApp. shipping open source crypto tools on the side.
 
