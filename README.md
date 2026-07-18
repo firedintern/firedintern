@@ -21,13 +21,13 @@ I think 90% of crypto products are overbuilt and underused. I try not to build t
 
 ---
 
-### projects
+### 🚀 projects
 
-→ **[DYORX](https://www.dyorx.com)**: WhatsApp-based savings circles earning 6-8% APY via Solana DeFi
-→ **[Fear & Greed Protocol](https://www.fgichad.xyz)**: Real-time crypto market sentiment tracker with 5 years of history
-→ **[TGE Calculator](https://www.tgecalculator.xyz)**: Token launch selling-pressure calculator for analysts
-→ **[Inbox Zero](https://www.inboxzero.me)**: Efficiently manage your X bookmarks
-→ **[Bull Market Relapse](https://bullmarketrelapse.lol/)**: A shame counter for crypto degens who keep calling the bottom
+- **[DYORX](https://www.dyorx.com)**: WhatsApp-based savings circles earning 6-8% APY via Solana DeFi
+- **[Fear & Greed Protocol](https://www.fgichad.xyz)**: Real-time crypto market sentiment tracker with 5 years of history
+- **[TGE Calculator](https://www.tgecalculator.xyz)**: Token launch selling-pressure calculator for analysts
+- **[Inbox Zero](https://www.inboxzero.me)**: Efficiently manage your X bookmarks
+- **[Bull Market Relapse](https://bullmarketrelapse.lol/)**: A shame counter for crypto degens who keep calling the bottom
 
 **Also on GitHub:** [DeFi GTM Playbook](https://github.com/firedintern/DeFi-GTM-Playbook) · [Zield](https://github.com/firedintern/Zield) · [chartz](https://github.com/firedintern/chartz) · [solana-lp-manager-skill](https://github.com/firedintern/solana-lp-manager-skill)
 
@@ -42,5 +42,5 @@ I think 90% of crypto products are overbuilt and underused. I try not to build t
 
 ### connect
 
-→ X: [@firedintern](https://x.com/firedintern)
-→ TG: @dpscrooge
+- X: [@firedintern](https://x.com/firedintern)
+- TG: @dpscrooge
