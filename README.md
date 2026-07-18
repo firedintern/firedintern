@@ -1,10 +1,10 @@
 # 👋 hi, i'm firedintern
 
-previously from microsoft. ended up going deep in fintech/crypto, this is my 3rd cycle. Currently exploring AI and learning on the go! Last 2 projects I shipped, attempts to correlate game theory with DeFi
+Previously at Microsoft, then deep into fintech/crypto for 6+ years, this is my 3rd cycle. Currently exploring AI agents and shipping open-source crypto tools on the side.
 
-went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $RISE token launch and raised $3M. now i'm i've been working on DYORX on Solana, digitizing savings circles with DeFi yields delivered via WhatsApp. shipping open source crypto tools on the side.
+Built at Blockchain.com and Pyme DAO (40k+ MAU), then led the $RISE token launch at Sunrise ($3M raised). Now building **[DYORX](https://www.dyorx.com)**, digitizing savings circles on Solana with DeFi yield, delivered over WhatsApp.
 
-6+ years in blockchain, DeFi, tokenomics and i still think 90% of crypto products are overbuilt and underused.
+I think 90% of crypto products are overbuilt and underused. I try not to build those.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=firedintern&color=blueviolet&style=flat)
 
@@ -21,18 +21,15 @@ went through blockchain.com, pyme dao (40k+ MAU), and sunrise where i led the $R
 
 ---
 
-### Projects
+### 🚀 projects
 
-→ **[DYOR(X)](https://www.dyorx.com)** — ROSCA savings circle simulator. adds 6-8% APY via Solana DeFi to savings circles that currently earn 0%
+→ **[DYORX](https://www.dyorx.com)**: WhatsApp-based savings circles earning 6-8% APY via Solana DeFi
+→ **[Fear & Greed Protocol](https://www.fgichad.xyz)**: Real-time crypto market sentiment tracker with 5 years of history
+→ **[TGE Calculator](https://www.tgecalculator.xyz)**: Token launch selling-pressure calculator for analysts
+→ **[Inbox Zero](https://www.inboxzero.me)**: Efficiently manage your X bookmarks
+→ **[Bull Market Relapse](https://bullmarketrelapse.lol/)**: A shame counter for crypto degens who keep calling the bottom
 
-→ **[FGI](https://www.fgichad.xyz)** — Crypto fear & greed index aggregator
-
-→ **[TGE-Calculator](https://www.tgecalculator.xyz)** — TGE selling pressure calculator
-
-→ **[Inbox Zero](https://www.inboxzero.me)** — Inbox Zero let's you efficiently manage your X bookmarks!
-
-→ **[Bull Market Relapse](https://bullmarketrelapse.lol/)** — Track every time you've called the bottom. A shame counter for crypto degens.
-
+**Also on GitHub:** [DeFi GTM Playbook](https://github.com/firedintern/DeFi-GTM-Playbook) · [Zield](https://github.com/firedintern/Zield) · [chartz](https://github.com/firedintern/chartz) · [solana-lp-manager-skill](https://github.com/firedintern/solana-lp-manager-skill)
 
 ---
 
