@@ -21,6 +21,8 @@ I think 90% of crypto products are overbuilt and underused. I try not to build t
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat&logo=algorand&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=flat&logo=anthropic&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=grok&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
