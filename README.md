@@ -21,7 +21,7 @@ I think 90% of crypto products are overbuilt and underused. I try not to build t
 
 ---
 
-### 🚀 projects
+### projects
 
 → **[DYORX](https://www.dyorx.com)**: WhatsApp-based savings circles earning 6-8% APY via Solana DeFi
 → **[Fear & Greed Protocol](https://www.fgichad.xyz)**: Real-time crypto market sentiment tracker with 5 years of history
