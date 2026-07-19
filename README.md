@@ -1,10 +1,7 @@
 # 👋 hi, i'm firedintern
 
-Previously at Microsoft, then deep into fintech/crypto for 6+ years, this is my 3rd cycle. Currently exploring AI agents and shipping open-source crypto tools on the side.
-
-Built at Blockchain.com and Pyme DAO (40k+ MAU), then led the $RISE token launch at Sunrise ($3M raised). Now building **[DYORX](https://www.dyorx.com)**, digitizing savings circles on Solana with DeFi yield, delivered over WhatsApp.
-
-I think 90% of crypto products are overbuilt and underused. I try not to build those.
+Ex-Microsoft. Six years and three cycles into fintech/crypto since. Along the way: Ops at Blockchain.com and Pyme DAO (40k+ MAU), and the $RISE token launch at Sunrise ($3M raised).
+Right now I'm heads-down on side projects: AI agents,SaaS, crypto tooling: and open to what comes next.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=firedintern&color=blueviolet&style=flat)
 
