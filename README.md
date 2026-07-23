@@ -35,13 +35,6 @@ Right now I'm heads-down on side projects: AI agents,SaaS, crypto tooling: and o
 
 ---
 
-### 📊 github stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firedintern&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=firedintern&theme=radical&hide_border=true)
-
----
-
 ### connect
 
 - X: [@firedintern](https://x.com/firedintern)
